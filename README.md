@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PranjaliMhatre
-- 👀 I’m interested in Artificia Intelligence and Machine Learning
+- 👀 I’m interested in Artificial Intelligence and Machine Learning
 - 🌱 I’m currently pursuing PGP in Artificial Intelligence and Machine Learning online from Great Lakes in collaboration with University of Texas.
 - 💞️ I’m looking to collaborate on project related to Data Science and Machine Learning
 - 📫 How to reach me - pranjalimh@gmail.com
